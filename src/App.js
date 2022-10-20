@@ -118,7 +118,7 @@ function App() {
               </p>
             </div>
             <div className="h-[2px] w-full bg-slate-800 md:hidden my-4"></div>
-            <div className="flex justify-between items-center md:gap-4">
+            {/* <div className="flex justify-between items-center md:gap-4">
               <h4 className="dark-text font-[700] text-sm">Dark Mode</h4>
               <div class="form-check form-switch">
                 <input
@@ -128,7 +128,7 @@ function App() {
                   id="flexSwitchCheckDefault"
                 />
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="w-full flex flex-col md:flex-row mx-auto items-center gap-[25px] pt-[37px] pb-[37px]">
